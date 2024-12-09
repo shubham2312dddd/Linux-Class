@@ -1,0 +1,24 @@
+ubuntu@ubuntu: $ mkdir linux
+
+ubuntu@ubuntu: $ cd linux
+
+ubuntu@ubuntu:$ touch text.txt
+
+ubuntu@ubuntu:-/Linux$ mkdir test
+
+ubuntu@ubuntu:/LES C
+
+ubuntu@ubuntu: /Amux$ rmdir test
+
+ubuntu@ubuntu/Linux$ cd
+
+ubuntu@ubuntu:-$ mkdir test
+
+ubuntu@ubuntu: 5 mv linux/text.txt
+
+mv: missing destination file operand after 'linux/text.txt'
+
+Try ' mv-help for more information.
+
+ubuntu@ubuntu: 5 mv linux/text.txt test/
+
