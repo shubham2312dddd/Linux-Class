@@ -4,3 +4,69 @@ ubuntu@ubuntu:-$ cd /bin
 
 ubuntu@ubuntu:/bin$ ls
 (For getting all data)
+
+-----------------
+ubuntu@ubuntu:-$ ls
+
+Desktop
+Downloads
+Pictures Shubham
+Videos
+snap test
+Documents
+Music
+
+ubuntu@ubuntu:-$ cd /
+ubuntu@ubuntu:
+/$ ls
+
+Public
+Templates
+linux
+media
+opt proc
+rofs root
+run sbin
+snap srv
+sys Lmp
+bin
+cdrom etc
+lib
+home
+lib64
+mnt
+boot
+dev
+
+ubuntu@ubuntu:/$ cd home
+ubuntu@ubuntu:/home$ cd test
+bash: cd: test: No such file or directory
+ubuntu@ubuntu:/home$ ls
+
+installer ubuntu
+
+ubuntu@ubuntu:/home$ cd ubuntu/
+ubuntu@ubuntu:-$ ls
+
+Desktop
+Downloads
+Pictures
+Shubham Videos
+snap
+Documents
+Music
+
+ubuntu@ubuntu:-$ cd /
+
+Public
+Templates
+linux
+test
+
+ubuntu@ubuntu:/$ cd home/ubuntu/Desktop/
+ubuntu@ubuntu:~/Desktop$ cd
+ubuntu@ubuntu:~$ cd home/ubuntu/test/
+bash: cd: home/ubuntu/test/: No such file or directory
+ubuntu@ubuntu:~$ cd /
+ubuntu@ubuntu:/$ cd home/ubuntu/text/
+ubuntu@ubuntu:-/test$
